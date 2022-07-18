@@ -1,0 +1,25 @@
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои проекты.csproj.AssemblyReference.cache
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои_проекты.Form1.resources
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои_проекты.Form2.resources
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои_проекты.Properties.Resources.resources
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои проекты.csproj.GenerateResource.cache
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои проекты.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\bin\Debug\мои проекты.exe.config
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\bin\Debug\мои проекты.exe
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\bin\Debug\мои проекты.pdb
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои проекты.exe
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои проекты.pdb
+C:\Users\student\Documents\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои_проекты.Properties.calcul.resources
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои проекты.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои проекты.exe
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои проекты.pdb
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\bin\Debug\мои проекты.exe.config
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\bin\Debug\мои проекты.exe
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\bin\Debug\мои проекты.pdb
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои_проекты.Form1.resources
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои_проекты.Form2.resources
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои_проекты.Form3.resources
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои_проекты.Properties.calcul.resources
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои_проекты.Properties.Resources.resources
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои проекты.csproj.GenerateResource.cache
+C:\Users\student\Downloads\MyApplication-main\MyApplication-main\kirichenko zahar\мои проекты\мои проекты\obj\Debug\мои проекты.csproj.CoreCompileInputs.cache
